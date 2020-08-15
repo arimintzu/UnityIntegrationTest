@@ -9,6 +9,7 @@ public class TestCamera : MonoBehaviour
     {
         Debug.Log("I want to test something one");
         Debug.Log("I want to test something one");
+        Debug.Log("Starting some shit");
     }
 
     // Update is called once per frame
